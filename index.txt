@@ -1,0 +1,206 @@
+Techx - Make Chat Easy
+
+
+
+#---------- HEADER ----------#
+
+Techx
+
+Home
+Services
+Features
+About
+Blog
+Contact Us
+
+Get Started
+
+aria-label = Toggle menu
+
+<ion-icon name="menu-outline" class="menu-icon"></ion-icon>
+<ion-icon name="close-outline" class="close-icon"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+alt = hero banner
+
+Make Chat Easy For Today's Digital Customers
+
+Techx is the ecommerce helpdesk center that turns your customer service into a profit center without any delay and increase your sale.
+
+placeholder = Enter Your Email
+
+Start Free Trial
+
+alt = Checkmark icon
+Live Chat
+Ticketing
+Knowledge Base
+Chat pages
+Team chat
+
+
+
+#---------- SERVICE ----------#
+
+Our Solutions For You
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis ac. Id massa scelerisque venenatis, massa gravida donec orci.
+
+alt = support
+Support
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis consectetur adipiscing elit.
+
+Learn More 
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+alt = engagement
+Engagement
+
+alt = marketing
+Marketing
+
+
+
+
+#---------- FEATURES ----------#
+
+Our Awesome Features To Serve You
+
+Planning, tracking and delivering your team’s best work has never been easier. We make it easiest for you through the software.
+
+Automate Instagram
+
+Drive Sale
+
+Get More Leads
+
+Engage Prospects
+
+alt = features image
+
+
+
+#---------- ABOUT ----------#
+
+What We Do
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet nulla duis ac. Id massa scelerisque venenatis, massa gravida donec orci.
+
+alt = Automated Ticket Routing
+
+Automated Ticket Routing
+
+Lorem ipsum dolor sit amet, consect etur adipiscing elit.
+
+Learn More 
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Workflow Automation
+
+Automated Callback
+
+Customer Feedback Surveys
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget gravida facilisis maecenas vitae.
+
+View All Features
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- STATS ----------#
+
+alt = stats
+
+386
+million
+Human Actions Saved On Techx
+
+999
+million
+Users Throughout The World
+
+200
+percent
+Revenue Growth
+
+50
+software
+Integration Support In Techx
+
+
+
+#---------- APP ----------#
+
+Download Mobile App To Stay Connected
+
+Techx Projects gives you the added advantage of several other Techx apps and third party apps through seamless integrations.
+
+alt = play store icon
+GET IT ON
+Google Play
+
+alt = apple store icon
+Apple Store
+
+alt = app screenshot
+
+
+
+#---------- SUPPORT ----------#
+
+24/7 Customer Support
+
+Our team is here to provide you with personalized and outstanding service. We also offer a range of self-learning tools in our support center:
+
+Contact Us Now
+
+
+
+#---------- FOOTER ----------#
+
+Techx
+
+Services
+
+Web Design
+Web Development
+Social Marketing
+WordPress
+Content Writing
+
+Quick Links
+
+About Us
+Portfolio
+Pricing Plan
+FAQ
+Download Apps
+
+Contact Us
+
+Call Us:
++(323) 750-1234
+Address:
+Vermont Ave, Los Angeles, CA 90044
+Mail Us:
+hello@Techx.com
+
+
+&copy; 2022 Techx. All rights reserved by codewithsadee
+
+Privacy Policy
+Security
+Terms & Conditions
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-labe = Back to top
+
+<ion-icon name="chevron-up"></ion-icon>
